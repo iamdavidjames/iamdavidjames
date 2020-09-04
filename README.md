@@ -1,6 +1,7 @@
-# hello-world
+# Hi :wave:
+## My Name is DAVID:dart::octocat:
+i'm a learning **Mobile Web Development** on **[Pluralsight]**_(https://www.pluralsight.com)_ and its being great!
 
-This is 1 yr after i created this repository. 
-
-Hi i'm David, i'm a beginner, 
-I'll be an seasoned developer soon!! With hardwork i'll get there.
+**This is my new profile readme and i'll be updating it soon.**
+                                              
+  _made with :heart:,:computer:_ in :earth_africa:
