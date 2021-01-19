@@ -8,4 +8,4 @@ i'm a learning **Mobile Web Development** on **[Pluralsight]**_(https://www.plur
 
 ![Visitor Count](https://profile-counter.glitch.me/{iamdavidjames}/count.svg)
 
-  _made with :heart:,:computer:_ in :earth_africa:
+  _made with :heart:,:computer:_ on :earth_africa:
