@@ -5,5 +5,7 @@ i'm a learning **Mobile Web Development** on **[Pluralsight]**_(https://www.plur
 **This is my new profile readme and i'll be updating it soon.**
 
 **:fireworks::fireworks: Welcome to 2021 :fireworks::fireworks:**
-                                              
+
+![Visitor Count](https://profile-counter.glitch.me/{iamdavidjames}/count.svg)
+
   _made with :heart:,:computer:_ in :earth_africa:
