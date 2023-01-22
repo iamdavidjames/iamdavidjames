@@ -1,8 +1,8 @@
 # Hi :wave:
 ## My Name is DAVID:dart::octocat:
-An aspiring Web Developer, Technical Writer and Cyber Security enthusiast.
+A budding Front-End Web Developer, Technical Writer and Cyber Security enthusiast.
 
-**Committed to development and advancement this year**
+**Committed to development and advancement**
 
 **:fireworks::fireworks: Merry Christmas and a Happy New Year :fireworks::fireworks:**
 
