@@ -4,7 +4,6 @@ A budding Front-End Web Developer, Technical Writer and Cyber Security enthusias
 
 **Committed to development and advancement**
 
-**:fireworks::fireworks: Merry Christmas and a Happy New Year :fireworks::fireworks:**
 
 ![Visitor Count](https://profile-counter.glitch.me/{iamdavidjames}/count.svg)
 
