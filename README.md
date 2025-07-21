@@ -5,6 +5,4 @@ A budding Front-End Web Developer, Technical Writer and Cyber Security enthusias
 **Committed to development and advancement**
 
 
-![Visitor Count](https://profile-counter.glitch.me/{iamdavidjames}/count.svg)
-
   _made with :heart:,:computer:_ on :earth_africa:
