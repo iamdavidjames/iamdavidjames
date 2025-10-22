@@ -1,6 +1,6 @@
 # Hi 👋
 ## My Name is DAVID🎯
-A budding Front-End Web Developer, Technical Writer and Cyber Security enthusiast.
+Front-End Web Developer, Technical Writer and Cyber Security enthusiast.
 
 **Committed to development and advancement**
 
